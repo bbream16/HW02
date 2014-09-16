@@ -59,6 +59,7 @@ private:
 		string name;
 		string number;
 	public:
+		//Eli
 		Directory_Entry() {} // Default no-argument constructor 
 		Directory_Entry(std::string the_name, std::string the_number) {
 			name = the_name;
